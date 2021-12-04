@@ -19,7 +19,7 @@ public class Program {
 	System.out.println("Enter with radius:");
 	double radius = sc.nextDouble();
 	
-	
+	// chamando um membro static 
 	double c = Calculator.circumference(radius);
 	double v = Calculator.volume(radius);
 	

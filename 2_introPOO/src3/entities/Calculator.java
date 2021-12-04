@@ -2,7 +2,7 @@ package entities;
 
 public class Calculator {
 
-	
+	//independente de obj 
 	public static final double PI = 3.14159;	
 	
 	

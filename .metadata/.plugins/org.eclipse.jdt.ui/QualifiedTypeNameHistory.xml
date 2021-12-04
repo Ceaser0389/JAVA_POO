@@ -27,7 +27,8 @@
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="jdk.internal.net.http.hpack.HPACK"/>
     <fullyQualifiedTypeName name="entities2.HourContract"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="entities.Calculator"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="entities.CurrencyCoverter"/>
 </qualifiedTypeNameHistroy>
