@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.servicos.LocacaoService"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.utils.DataUtils"/>
+    <fullyQualifiedTypeName name="junit.framework.Assert"/>
+    <fullyQualifiedTypeName name="org.hamcrest.CoreMatchers"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="java.util.TimeZone"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="org.junit.rules.ExpectedException"/>
+    <fullyQualifiedTypeName name="javax.security.auth.login.LoginException"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.exceptions.FilmeSemEstoqueException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.exceptions.LocadoraException"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.exceptions.NaoPodeDividirPorZeroException"/>
+    <fullyQualifiedTypeName name="br.ce.wcaquino.servicos.Calculadora"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.utilities.ObjectReader"/>
+    <fullyQualifiedTypeName name="Entities.Enums.OrderStatus"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="entities2.Worker"/>
+    <fullyQualifiedTypeName name="enums.WorkerLevel"/>
+    <fullyQualifiedTypeName name="entities2.Departament"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="jdk.internal.net.http.hpack.HPACK"/>
+    <fullyQualifiedTypeName name="entities2.HourContract"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="entities.Calculator"/>
+</qualifiedTypeNameHistroy>
