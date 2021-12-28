@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="br.ce.wcaquino.exceptions.LocadoraException"/>
-    <fullyQualifiedTypeName name="org.junit.Assert"/>
-    <fullyQualifiedTypeName name="br.ce.wcaquino.exceptions.NaoPodeDividirPorZeroException"/>
-    <fullyQualifiedTypeName name="br.ce.wcaquino.servicos.Calculadora"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.utilities.ObjectReader"/>
     <fullyQualifiedTypeName name="Entities.Enums.OrderStatus"/>
     <fullyQualifiedTypeName name="java.util.List"/>
@@ -17,7 +13,6 @@
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="entities.CurrencyCoverter"/>
     <fullyQualifiedTypeName name="sun.util.resources.Bundles"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="entities.BusinessAccount"/>
     <fullyQualifiedTypeName name="entities.Account"/>
     <fullyQualifiedTypeName name="entities.SavingsAccount"/>
@@ -43,14 +38,7 @@
     <fullyQualifiedTypeName name="entities.Vehicle"/>
     <fullyQualifiedTypeName name="services.RentalService"/>
     <fullyQualifiedTypeName name="services.BrazilTaxService"/>
-    <fullyQualifiedTypeName name="java.awt.Color"/>
-    <fullyQualifiedTypeName name="model.entities.Shape"/>
-    <fullyQualifiedTypeName name="model.enums.Color"/>
-    <fullyQualifiedTypeName name="model.entities.AbstractShape"/>
-    <fullyQualifiedTypeName name="model.entities.Circle"/>
-    <fullyQualifiedTypeName name="model.entities.Rectangle"/>
     <fullyQualifiedTypeName name="services.TaxService"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="model.entities.Vehicle"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.text.ParseException"/>
@@ -60,4 +48,16 @@
     <fullyQualifiedTypeName name="model.service.BrasilTaxService"/>
     <fullyQualifiedTypeName name="model.entities.Invoice"/>
     <fullyQualifiedTypeName name="model.service.TaxService"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="model.entities.Shape"/>
+    <fullyQualifiedTypeName name="model.entities.Circle"/>
+    <fullyQualifiedTypeName name="model.enums.Color"/>
+    <fullyQualifiedTypeName name="model.entities.AbstractShape"/>
+    <fullyQualifiedTypeName name="model.entities.Rectangle"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="devices.Printer"/>
+    <fullyQualifiedTypeName name="devices.Scanner"/>
+    <fullyQualifiedTypeName name="sun.tools.tree.CommaExpression"/>
+    <fullyQualifiedTypeName name="devices.ComboDevice"/>
 </qualifiedTypeNameHistroy>
